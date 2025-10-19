@@ -16,6 +16,8 @@ Helps farmers automate irrigation, save water, and improve crop yield. 🚜💦
 pip install pandas scikit-learn joblib streamlit
 
 
+---
+
 🎯 Features
 
 ✅ Predict soil moisture in real-time
@@ -29,7 +31,7 @@ Predicted Soil Moisture: 23.5% 💧
 
 Input: temperature=25°C, humidity=60%, soil_type=loam, rainfall=0mm
 
-Author: Aswin Kumar D 
+ Author: Aswin Kumar D 
 
 Tech Stack: Python, scikit-learn, Streamlit
 
